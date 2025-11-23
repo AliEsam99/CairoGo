@@ -1,0 +1,505 @@
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.AssemblyReference.cache
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.AssemblyInfoInputs.cache
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.AssemblyInfo.cs
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.CoreCompileInputs.cache
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\appsettings.Development.json
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\appsettings.json
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.staticwebassets.endpoints.json
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.exe
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.deps.json
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.runtimeconfig.json
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.pdb
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Azure.Core.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Azure.Identity.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Humanizer.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.ClientModel.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.CodeDom.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Memory.Data.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Text.Json.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\mega project\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\scopedcss\bundle\CairoGo.styles.css
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.development.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.Up2Date
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.dll
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\refint\CairoGo.dll
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.pdb
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.genruntimeconfig.cache
+E:\C#\mega project\CairoGo\CairoGo\obj\Debug\net9.0\ref\CairoGo.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\appsettings.Development.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\appsettings.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.staticwebassets.endpoints.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.exe
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.deps.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.runtimeconfig.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.pdb
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Azure.Core.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Azure.Identity.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Humanizer.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.ClientModel.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.CodeDom.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Memory.Data.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Text.Json.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.AssemblyReference.cache
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.AssemblyInfoInputs.cache
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.AssemblyInfo.cs
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.CoreCompileInputs.cache
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.sourcelink.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\scopedcss\bundle\CairoGo.styles.css
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.development.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.Up2Date
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\refint\CairoGo.dll
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.pdb
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.genruntimeconfig.cache
+E:\C#\test2\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\ref\CairoGo.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\appsettings.Development.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\appsettings.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.staticwebassets.endpoints.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.exe
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.deps.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.runtimeconfig.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\CairoGo.pdb
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Azure.Core.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Azure.Identity.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Humanizer.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.ClientModel.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.CodeDom.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Memory.Data.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Text.Json.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.AssemblyReference.cache
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.AssemblyInfoInputs.cache
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.AssemblyInfo.cs
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.CoreCompileInputs.cache
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.sourcelink.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\scopedcss\bundle\CairoGo.styles.css
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.development.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.csproj.Up2Date
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\refint\CairoGo.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.pdb
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.genruntimeconfig.cache
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\obj\Debug\net9.0\ref\CairoGo.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\GoCairo\CairoGo\CairoGo\CairoGo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

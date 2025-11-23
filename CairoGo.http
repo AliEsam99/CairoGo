@@ -1,0 +1,6 @@
+@CairoGo_HostAddress = http://localhost:5145
+
+GET {{CairoGo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
