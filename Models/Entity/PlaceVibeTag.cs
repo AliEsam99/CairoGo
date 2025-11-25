@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CairoGo.Models.ENums;
+using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -12,7 +13,7 @@ namespace CairoGo.Models.Entity
 
         [Required(ErrorMessage = "Vibe tag value is required")]
         [StringLength(50, MinimumLength = 3)]
-        public string Value { get; set; }
+        public TravelVibe Value { get; set; }
 
         [Required]
         [ForeignKey(nameof(Place))]

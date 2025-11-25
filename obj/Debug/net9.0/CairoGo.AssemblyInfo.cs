@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CairoGo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f426da4df27984449aed592773b3fa7f2f6a1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305c413fe3c9cdb07e3ac932271d395050ed4ad7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CairoGo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CairoGo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
