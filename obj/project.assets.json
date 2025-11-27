@@ -5351,23 +5351,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {},
+    "C:\\Users\\XPRISTO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\GoCairo\\CairoGo\\CairoGo\\CairoGo\\CairoGo.csproj",
+      "projectUniqueName": "D:\\DEPI\\CairoGo\\CairoGo\\CairoGo.csproj",
       "projectName": "CairoGo",
-      "projectPath": "E:\\C#\\GoCairo\\CairoGo\\CairoGo\\CairoGo\\CairoGo.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\GoCairo\\CairoGo\\CairoGo\\CairoGo\\obj\\",
+      "projectPath": "D:\\DEPI\\CairoGo\\CairoGo\\CairoGo.csproj",
+      "packagesPath": "C:\\Users\\XPRISTO\\.nuget\\packages\\",
+      "outputPath": "D:\\DEPI\\CairoGo\\CairoGo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPRISTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

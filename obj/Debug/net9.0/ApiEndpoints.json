@@ -152,5 +152,365 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "GetActivities",
+    "RelativePath": "api/Preference/{profileId}/activities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "RemoveActivity",
+    "RelativePath": "api/Preference/{profileId}/activity/{activityId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "activityId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "AddActivity",
+    "RelativePath": "api/Preference/{userId}/activity/{activityId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "activityId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "CreatePreferenceProfile",
+    "RelativePath": "api/Preference/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PreferenceDTO.CreatePreferenceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "GetProfile",
+    "RelativePath": "api/Preference/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripDayController",
+    "Method": "DeleteDay",
+    "RelativePath": "api/TripDay/{dayId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripDayController",
+    "Method": "UpdateTripDay",
+    "RelativePath": "api/TripDay/{dayId}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripDayDTO.TripDayUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripDayController",
+    "Method": "GetDayById",
+    "RelativePath": "api/TripDay/{tripId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripDayController",
+    "Method": "AddDay",
+    "RelativePath": "api/TripDay/trip/{tripId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripDayDTO.TripDayCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripDayController",
+    "Method": "GetDays",
+    "RelativePath": "api/TripDay/trip/{tripId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "GetTrip",
+    "RelativePath": "api/TripPlane/{tripId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "DeleteTripPlan",
+    "RelativePath": "api/TripPlane/{tripId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "AddTripDay",
+    "RelativePath": "api/TripPlane/{tripId}/day",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "tripDay",
+        "Type": "CairoGo.Models.Entity.TripDay",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "CreateTripPlan",
+    "RelativePath": "api/TripPlane/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripPlaneDTO.TripPlanCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "AddTripSlot",
+    "RelativePath": "api/TripPlane/day/{dayId}/slot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "tripSlot",
+        "Type": "CairoGo.Models.Entity.TripSlot",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "GetUserTrips",
+    "RelativePath": "api/TripPlane/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripSlotController",
+    "Method": "DeleteSlot",
+    "RelativePath": "api/TripSlot/{slotId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slotId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripSlotController",
+    "Method": "UpdateSlot",
+    "RelativePath": "api/TripSlot/{slotId}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slotId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripSlotDTO.TripSlotUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripSlotController",
+    "Method": "AddSlot",
+    "RelativePath": "api/TripSlot/day/{dayId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripSlotDTO.TripSlotCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripSlotController",
+    "Method": "GetSlots",
+    "RelativePath": "api/TripSlot/day/{dayId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
