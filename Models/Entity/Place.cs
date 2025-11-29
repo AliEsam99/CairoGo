@@ -90,7 +90,6 @@ namespace CairoGo.Models.Entity
 
         [InverseProperty(nameof(TripSlot.AlternatePlace))]
         public ICollection<TripSlot> AlternateTripSlots { get; set; } = new List<TripSlot>();
-
         public ICollection<Interaction> Interactions { get; set; } = new List<Interaction>();
         public ICollection<Favorite> Favorites { get; set; } = new List<Favorite>();
         public ICollection<Review> Reviews { get; set; } = new List<Review>();

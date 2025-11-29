@@ -14,7 +14,5 @@ namespace CairoGo.Repository.Interfaces
         Task<List<Place>> SearchByCategoryAsync(PlaceCategory category);
         Task<List<Place>> GetTrendingPlacesAsync(int count);
 
-
-
     }
 }

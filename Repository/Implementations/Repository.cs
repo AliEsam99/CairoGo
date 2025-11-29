@@ -28,12 +28,15 @@ namespace CairoGo.Repository.Implementations
         public async Task AddAsync(T item)
         {
              await _DbSet.AddAsync(item);
+            await _db.SaveChangesAsync();
+
         }
         public async Task UpdateAsync(T item)
         {
           _DbSet.Update(item);
+            await _db.SaveChangesAsync();
         }
-        
+
 
         public async Task DeleteAsync(Guid id)
         {
@@ -44,6 +47,8 @@ namespace CairoGo.Repository.Implementations
                 throw new KeyNotFoundException($"Entity with ID {id} not found");
             }
             _DbSet.Remove(object1);
+            await _db.SaveChangesAsync();
+
         }
 
         public async Task<List<T>> FindAsync(Expression<Func<T, bool>> predicate)

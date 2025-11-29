@@ -15,7 +15,7 @@ namespace CairoGo.Mappings
                 Budget = dto.Budget,
                 WeatherPref = dto.WeatherPref,
                 TripDays = dto.TripDays,
-                ActivityTypes = dto.ActivityTypeIds?.Select(id => new ActivityType { ActivityTypeId = id }).ToList() ?? new List<ActivityType>(),
+                //ActivityTypes = dto.ActivityTypeIds?.Select(id => new ActivityType { ActivityTypeId = id }).ToList() ?? new List<ActivityType>(),
                 LastQuizTakenAt = DateTime.UtcNow
             };
         }
@@ -37,6 +37,22 @@ namespace CairoGo.Mappings
                     Name = at.Name.ToString()
                 }).ToList() ?? new List<ActivityTypeDto>()
             };
+        }
+        public static void UpdateEntity(PreferenceProfile profile, UpdatePreferenceDto dto)
+        {
+            if (dto.TravelVibe.HasValue)
+                profile.TravelVibe = dto.TravelVibe.Value;
+
+            if (dto.Budget.HasValue)
+                profile.Budget = dto.Budget.Value;
+
+            if (dto.WeatherPref.HasValue)
+                profile.WeatherPref = dto.WeatherPref.Value;
+
+            if (dto.TripDays.HasValue)
+                profile.TripDays = dto.TripDays.Value;
+
+            profile.LastQuizTakenAt = DateTime.UtcNow;
         }
     }
 }

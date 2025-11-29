@@ -4,6 +4,7 @@ using CairoGo.Models.Entity;
 using CairoGo.Repository.Implementations;
 using CairoGo.Repository.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace CairoGo.Controllers
 {
@@ -41,7 +42,7 @@ namespace CairoGo.Controllers
             }
         }
         // api/preference/user/{userId}
-        [HttpGet("user/{userId}")]
+        [HttpGet("user/{userId:guid}")]
         public async Task<IActionResult> GetProfile(Guid userId)
         {
             try
@@ -49,7 +50,8 @@ namespace CairoGo.Controllers
                 var profile = await preferenceRepo.GetPreferencesByUserIdAsync(userId);
                 if (profile == null)
                     return NotFound("Preference profile not found.");
-                return Ok(profile);
+                var response = PreferenceMapper.ToResponse(profile);
+                return Ok(response);
             }
             catch (Exception ex)
             {
@@ -63,7 +65,14 @@ namespace CairoGo.Controllers
             try
             {
                 await preferenceRepo.AddActivityTypeAsync(userId, activityId);
-                return Ok("Activity type added to preference profile.");
+                var profile = await preferenceRepo.GetPreferencesByUserIdAsync(userId);
+                var response = PreferenceMapper.ToResponse(profile);
+                return Ok(new
+                {
+                    success = true,
+                    message = "Activity added successfully",
+                    data = response
+                });
             }
             catch (KeyNotFoundException knfEx)
             {
@@ -72,6 +81,38 @@ namespace CairoGo.Controllers
             catch (Exception ex)
             {
                 return StatusCode(500, $"Internal Server Error: {ex.Message}");
+            }
+        }
+        [HttpPost("update/{profileId}")]
+        public async Task<IActionResult> UpdatePreferenceProfile(Guid profileId,[FromBody] UpdatePreferenceDto dto)
+        {
+            try
+            {
+                if (!ModelState.IsValid)
+                    return BadRequest(ModelState);
+
+                var profile = await preferenceRepo.GetByIdAsync(profileId);
+
+                if (profile == null)
+                    return NotFound(new { message = "Preference profile not found." });
+
+                // Update fields using mapper
+                PreferenceMapper.UpdateEntity(profile, dto);
+
+                // Update activities if provided
+                if (dto.ActivityTypeIds != null && dto.ActivityTypeIds.Any())
+                {
+                    await preferenceRepo.SetActivityTypesAsync(profile, dto.ActivityTypeIds);
+                }
+
+                await preferenceRepo.UpdateAsync(profile);
+
+                var response = PreferenceMapper.ToResponse(profile);
+                return Ok(response);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = $"Internal Server Error: {ex.Message}" });
             }
         }
         // api/preference/{profileId}/activity/{activityId}
@@ -81,7 +122,15 @@ namespace CairoGo.Controllers
             try
             {
                 await preferenceRepo.RemoveActivityTypeAsync(profileId, activityId);
-                return Ok("Activity type removed from preference profile.");
+
+                var profile = await preferenceRepo.GetByIdAsync(profileId);
+                var response = PreferenceMapper.ToResponse(profile);
+                return Ok(new
+                {
+                    success = true,
+                    message = "Activity removed successfully",
+                    data = response
+                });
             }
             catch (KeyNotFoundException knfEx)
             {
@@ -92,14 +141,19 @@ namespace CairoGo.Controllers
                 return StatusCode(500, $"Internal Server Error: {ex.Message}");
             }
         }
-        // api/preference/{profileId}/activities
-        [HttpGet("{profileId}/activities")]
+        [HttpGet("activities/{profileId}")]
         public async Task<IActionResult> GetActivities(Guid profileId)
         {
             try
             {
                 var activities = await preferenceRepo.GetActivityTypesAsync(profileId);
-                return Ok(activities);
+                var response = activities.Select(a => new ActivityTypeDto
+                {
+                    ActivityTypeId = a.ActivityTypeId,
+                    Name = a.Name.ToString()
+                }).ToList();
+
+                return Ok(response);
             }
             catch (Exception ex)
             {

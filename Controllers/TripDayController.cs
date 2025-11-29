@@ -27,7 +27,7 @@ namespace CairoGo.Controllers
             await _repo.AddDayToTripAsync(tripId, tripDay);
             return Ok(tripDay.ToDto());
         }
-        [HttpPut("{dayId}/update")]
+        [HttpPut("update/{dayId}")]
         public async Task<IActionResult> UpdateTripDay(Guid dayId, [FromBody] TripDayUpdateDto dto)
         {
             if (!ModelState.IsValid)

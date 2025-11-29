@@ -7,6 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DTOs\NewFolder1\**" />
+    <Compile Remove="DTOs\NewFolder2\**" />
+    <Compile Remove="DTOs\NewFolder3\**" />
+    <Content Remove="DTOs\NewFolder1\**" />
+    <Content Remove="DTOs\NewFolder2\**" />
+    <Content Remove="DTOs\NewFolder3\**" />
+    <EmbeddedResource Remove="DTOs\NewFolder1\**" />
+    <EmbeddedResource Remove="DTOs\NewFolder2\**" />
+    <EmbeddedResource Remove="DTOs\NewFolder3\**" />
+    <None Remove="DTOs\NewFolder1\**" />
+    <None Remove="DTOs\NewFolder2\**" />
+    <None Remove="DTOs\NewFolder3\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.11" />

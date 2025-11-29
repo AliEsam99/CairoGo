@@ -1,5 +1,227 @@
 [
   {
+    "ContainingType": "CairoGo.Controllers.ActivityTypeController",
+    "Method": "GetAllTypes",
+    "RelativePath": "api/ActivityType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ActivityTypeController",
+    "Method": "DeleteType",
+    "RelativePath": "api/ActivityType/{typeId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "typeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ActivityTypeController",
+    "Method": "CreateActivityType",
+    "RelativePath": "api/ActivityType/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.ActivityTypeDTO.ActivityTypeCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ActivityTypeController",
+    "Method": "UpdateActivityType",
+    "RelativePath": "api/ActivityType/update/{typeId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "typeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.ActivityTypeDTO.ActivityTypeUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ExperimentAssignmentController",
+    "Method": "Delete",
+    "RelativePath": "api/ExperimentAssignment/{assignmentId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assignmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ExperimentAssignmentController",
+    "Method": "AssignExperiment",
+    "RelativePath": "api/ExperimentAssignment/assign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.ExperimentAssignmentDTO.ExperimentAssignmentCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ExperimentAssignmentController",
+    "Method": "Update",
+    "RelativePath": "api/ExperimentAssignment/update/{assignmentId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assignmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.ExperimentAssignmentDTO.ExperimentAssignmentUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.ExperimentAssignmentController",
+    "Method": "GetUserAssignments",
+    "RelativePath": "api/ExperimentAssignment/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceOperatingHoursController",
+    "Method": "Update",
+    "RelativePath": "api/PlaceOperatingHours/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PlaceOperatingHoursDTO.UpdatePlaceOperatingHoursDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceOperatingHoursController",
+    "Method": "Delete",
+    "RelativePath": "api/PlaceOperatingHours/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceOperatingHoursController",
+    "Method": "Create",
+    "RelativePath": "api/PlaceOperatingHours/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PlaceOperatingHoursDTO.CreatePlaceOperatingHoursDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceOperatingHoursController",
+    "Method": "GetByPlace",
+    "RelativePath": "api/PlaceOperatingHours/place/{placeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceOperatingHoursController",
+    "Method": "GetByPlaceAndDay",
+    "RelativePath": "api/PlaceOperatingHours/place/{placeId}/day/{dayOfWeek}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dayOfWeek",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CairoGo.Controllers.PlacesController",
     "Method": "GetAllPlaces",
     "RelativePath": "api/Places",
@@ -154,15 +376,68 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "CairoGo.Controllers.PreferenceController",
-    "Method": "GetActivities",
-    "RelativePath": "api/Preference/{profileId}/activities",
+    "ContainingType": "CairoGo.Controllers.PlaceVibeTagController",
+    "Method": "Update",
+    "RelativePath": "api/PlaceVibeTag/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PlaceVibeDTO.UpdatePlaceVibeTagDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceVibeTagController",
+    "Method": "Delete",
+    "RelativePath": "api/PlaceVibeTag/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceVibeTagController",
+    "Method": "Create",
+    "RelativePath": "api/PlaceVibeTag/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PlaceVibeDTO.CreatePlaceVibeTagDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PlaceVibeTagController",
+    "Method": "GetByPlace",
+    "RelativePath": "api/PlaceVibeTag/place/{placeId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "profileId",
+        "Name": "placeId",
         "Type": "System.Guid",
         "IsRequired": true
       }
@@ -213,6 +488,22 @@
   },
   {
     "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "GetActivities",
+    "RelativePath": "api/Preference/activities/{profileId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
     "Method": "CreatePreferenceProfile",
     "RelativePath": "api/Preference/create",
     "HttpMethod": "POST",
@@ -222,6 +513,27 @@
       {
         "Name": "dto",
         "Type": "CairoGo.DTOs.PreferenceDTO.CreatePreferenceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.PreferenceController",
+    "Method": "UpdatePreferenceProfile",
+    "RelativePath": "api/Preference/update/{profileId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PreferenceDTO.UpdatePreferenceDto",
         "IsRequired": true
       }
     ],
@@ -244,6 +556,138 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "GetById",
+    "RelativePath": "api/SearchSession/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "AddClick",
+    "RelativePath": "api/SearchSession/{id}/add-click",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.SearchSessionDTO.AddClickDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "Anonymize",
+    "RelativePath": "api/SearchSession/{id}/anonymize",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "GetAvgTimeToClick",
+    "RelativePath": "api/SearchSession/analytics/avg-time-to-click",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "GetPopularPlaces",
+    "RelativePath": "api/SearchSession/analytics/popular-places",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "Create",
+    "RelativePath": "api/SearchSession/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.SearchSessionDTO.CreateSearchSessionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.SearchSessionController",
+    "Method": "GetByUser",
+    "RelativePath": "api/SearchSession/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CairoGo.Controllers.TripDayController",
     "Method": "DeleteDay",
     "RelativePath": "api/TripDay/{dayId}",
@@ -254,27 +698,6 @@
       {
         "Name": "dayId",
         "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CairoGo.Controllers.TripDayController",
-    "Method": "UpdateTripDay",
-    "RelativePath": "api/TripDay/{dayId}/update",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dayId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "dto",
-        "Type": "CairoGo.DTOs.TripDayDTO.TripDayUpdateDto",
         "IsRequired": true
       }
     ],
@@ -334,6 +757,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CairoGo.Controllers.TripDayController",
+    "Method": "UpdateTripDay",
+    "RelativePath": "api/TripDay/update/{dayId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripDayDTO.TripDayUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CairoGo.Controllers.TripPlaneController",
     "Method": "GetTrip",
     "RelativePath": "api/TripPlane/{tripId}",
@@ -360,27 +804,6 @@
       {
         "Name": "tripId",
         "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CairoGo.Controllers.TripPlaneController",
-    "Method": "AddTripDay",
-    "RelativePath": "api/TripPlane/{tripId}/day",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "tripId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "tripDay",
-        "Type": "CairoGo.Models.Entity.TripDay",
         "IsRequired": true
       }
     ],
@@ -425,6 +848,27 @@
   },
   {
     "ContainingType": "CairoGo.Controllers.TripPlaneController",
+    "Method": "AddTripDay",
+    "RelativePath": "api/TripPlane/day/{tripId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "tripDay",
+        "Type": "CairoGo.Models.Entity.TripDay",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripPlaneController",
     "Method": "GetUserTrips",
     "RelativePath": "api/TripPlane/user/{userId}",
     "HttpMethod": "GET",
@@ -450,27 +894,6 @@
       {
         "Name": "slotId",
         "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CairoGo.Controllers.TripSlotController",
-    "Method": "UpdateSlot",
-    "RelativePath": "api/TripSlot/{slotId}/update",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "slotId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "dto",
-        "Type": "CairoGo.DTOs.TripSlotDTO.TripSlotUpdateDto",
         "IsRequired": true
       }
     ],
@@ -507,6 +930,112 @@
     "Parameters": [
       {
         "Name": "dayId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.TripSlotController",
+    "Method": "UpdateSlot",
+    "RelativePath": "api/TripSlot/update/{slotId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slotId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.TripSlotDTO.TripSlotUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.UserPreferenceSignalController",
+    "Method": "Create",
+    "RelativePath": "api/UserPreferenceSignal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PreferenceSignalDTO.CreateUserPreferenceSignalDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.UserPreferenceSignalController",
+    "Method": "Get",
+    "RelativePath": "api/UserPreferenceSignal/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.UserPreferenceSignalController",
+    "Method": "Update",
+    "RelativePath": "api/UserPreferenceSignal/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CairoGo.DTOs.PreferenceSignalDTO.UpdateUserPreferenceSignalDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.UserPreferenceSignalController",
+    "Method": "Delete",
+    "RelativePath": "api/UserPreferenceSignal/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CairoGo.Controllers.UserPreferenceSignalController",
+    "Method": "GetByUser",
+    "RelativePath": "api/UserPreferenceSignal/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
         "Type": "System.Guid",
         "IsRequired": true
       }

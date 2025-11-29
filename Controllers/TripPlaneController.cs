@@ -45,7 +45,7 @@ namespace CairoGo.Controllers
             return Ok(trip.ToDto());
         }
         // api/tripPlane/{tripId}/day
-        [HttpPost("{tripId}/day")]
+        [HttpPost("day/{tripId}")]
         public async Task<IActionResult> AddTripDay(Guid tripId, [FromBody] TripDay tripDay)
         {
             if (!ModelState.IsValid)

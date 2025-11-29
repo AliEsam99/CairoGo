@@ -26,7 +26,7 @@ namespace CairoGo.Controllers
             await _repo.AddSlotToDayAsync(dayId, slot);
             return Ok(slot.ToDto());
         }
-        [HttpPut("{slotId}/update")]
+        [HttpPut("update/{slotId}")]
         public async Task<IActionResult> UpdateSlot(Guid slotId, [FromBody] TripSlotUpdateDto dto)
         {
             if (!ModelState.IsValid)

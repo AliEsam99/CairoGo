@@ -30,8 +30,19 @@ namespace CairoGo
             {
                 c.UseInlineDefinitionsForEnums();
             });
-
+            builder.Services.AddScoped(typeof(IBaseRepo<>), typeof(Repository<>));
             builder.Services.AddScoped<IPlaceRepository,PlaceRepository>();
+            builder.Services.AddScoped<ITripDayRepo, TripDayRepo>();
+            builder.Services.AddScoped<ITripSlotRepo, TripSlotRepo>();
+            builder.Services.AddScoped<IActivityTypeRepo, ActivityTypeRepo>();
+            builder.Services.AddScoped<IPreferenceRepo, PreferenceRepo>();
+            builder.Services.AddScoped<ITripPlaneRepo, TripPlaneRepo>();
+            builder.Services.AddScoped<IExperimentAssignmentRepo, ExperimentAssignmentRepo>();
+            builder.Services.AddScoped<IPlaceVibeTagRepo, PlaceVibeTagRepo>();
+            builder.Services.AddScoped<IUserPreferenceSignalRepository, UserPreferenceSignalRepository>();
+            builder.Services.AddScoped<ISearchSessionRepo, SearchSessionRepo>();
+            builder.Services.AddScoped<IPlaceOperatingHoursRepo, PlaceOperatingHoursRepo>();
+
 
             var app = builder.Build();
 
