@@ -9,7 +9,6 @@ namespace CairoGo.Repository.Interfaces
         Task AddAsync(T item);
         Task UpdateAsync(T item);
         Task DeleteAsync(Guid id);
-
         Task<List<T>> FindAsync(Expression<Func<T, bool>> predicate);
     }
 }

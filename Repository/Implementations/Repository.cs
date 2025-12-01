@@ -36,8 +36,6 @@ namespace CairoGo.Repository.Implementations
           _DbSet.Update(item);
             await _db.SaveChangesAsync();
         }
-
-
         public async Task DeleteAsync(Guid id)
         {
             var object1=await _DbSet.FindAsync(id);
@@ -48,14 +46,10 @@ namespace CairoGo.Repository.Implementations
             }
             _DbSet.Remove(object1);
             await _db.SaveChangesAsync();
-
         }
-
         public async Task<List<T>> FindAsync(Expression<Func<T, bool>> predicate)
         {
             return await _DbSet.Where(predicate).ToListAsync();
         }
-
-
     }
 }

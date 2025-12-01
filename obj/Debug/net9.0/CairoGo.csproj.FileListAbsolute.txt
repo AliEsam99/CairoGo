@@ -677,3 +677,4 @@ D:\DEPI\CairoGo\CairoGo\obj\Debug\net9.0\refint\CairoGo.dll
 D:\DEPI\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.pdb
 D:\DEPI\CairoGo\CairoGo\obj\Debug\net9.0\CairoGo.genruntimeconfig.cache
 D:\DEPI\CairoGo\CairoGo\obj\Debug\net9.0\ref\CairoGo.dll
+D:\DEPI\CairoGo\CairoGo\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
